@@ -41,6 +41,6 @@ This portfolio is built with HTML5 and CSS3 and hosted using GitHub Pages. It in
 
 ## Connect
 
-- **Portfolio:** https://nftryani29-beep.github.io/fitriyani-resume-site/
+- **Portfolio:** [https://nftryani29-beep.github.io/fitriyani-resume-site/](https://nftryani29-beep.github.io/fitriyani-resume-site/)
 - **GitHub:** https://github.com/nftryani29-beep
 - **Email:** nftryani29@gmail.com
